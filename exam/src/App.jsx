@@ -3,6 +3,7 @@ import "./App.css";
 import RegistrationForm from "./components/RegistrationForm";
 import ImageComponent from "./components/ImageComponents";
 import Modal from "./components/RegistrationForm";
+import "semantic-ui-css/semantic.min.css";
 import React, { useState } from "react";
 
 function App() {
